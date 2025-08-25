@@ -12,7 +12,7 @@ senderName is the name of the sender (e.g., "Elsa"). */
 
 function addID(campaignRecord) {
   // ?
-  return id = campaignRecord.name - campaignRecord.sender ;
+  return campaignRecord.id = campaignRecord.name - campaignRecord.sender ;
 }
 
 // don't touch below this line
